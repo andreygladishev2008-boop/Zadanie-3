@@ -29,7 +29,7 @@ namespace Zadanie_3
 
         public override double GetQ()
         {
-            return base.GetQ() - (base.GetQ() * (Discount / 100));
+            return base.GetQ() - (base.GetQ() * (Discount / 100.0));
         }
 
         // Вывод информации об объекте

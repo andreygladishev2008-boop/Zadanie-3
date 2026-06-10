@@ -12,3 +12,4 @@ C:\ГладышевПР_21\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3.csproj.Genera
 C:\ГладышевПР_21\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3.csproj.CoreCompileInputs.cache
 C:\ГладышевПР_21\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3.exe
 C:\ГладышевПР_21\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3.pdb
+C:\ГладышевПР_21\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3.csproj.AssemblyReference.cache
