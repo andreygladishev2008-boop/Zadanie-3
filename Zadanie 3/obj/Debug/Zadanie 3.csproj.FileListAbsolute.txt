@@ -1,0 +1,14 @@
+C:\ГладышевПР_21\Zadanie 3\Zadanie 3\obj\Debug\MainWindow.g.cs
+C:\ГладышевПР_21\Zadanie 3\Zadanie 3\obj\Debug\App.g.cs
+C:\ГладышевПР_21\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3_MarkupCompile.cache
+C:\ГладышевПР_21\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3_MarkupCompile.lref
+C:\ГладышевПР_21\Zadanie 3\Zadanie 3\bin\Debug\Zadanie 3.exe.config
+C:\ГладышевПР_21\Zadanie 3\Zadanie 3\bin\Debug\Zadanie 3.exe
+C:\ГладышевПР_21\Zadanie 3\Zadanie 3\bin\Debug\Zadanie 3.pdb
+C:\ГладышевПР_21\Zadanie 3\Zadanie 3\obj\Debug\MainWindow.baml
+C:\ГладышевПР_21\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3.g.resources
+C:\ГладышевПР_21\Zadanie 3\Zadanie 3\obj\Debug\Zadanie_3.Properties.Resources.resources
+C:\ГладышевПР_21\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3.csproj.GenerateResource.cache
+C:\ГладышевПР_21\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3.csproj.CoreCompileInputs.cache
+C:\ГладышевПР_21\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3.exe
+C:\ГладышевПР_21\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3.pdb
